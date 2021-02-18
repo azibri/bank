@@ -1,5 +1,3 @@
-FROM maven:3.3-jdk-8-onbuild
-
 FROM openjdk:8-jdk-alpine
 EXPOSE 8081
 
